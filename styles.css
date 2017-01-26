@@ -3,10 +3,12 @@
   color: #2d78c9;
 }
 
+#b {
+  font-size: "48px"; 
+  font-size: 48px; 
+}
+
 div {
   display: block;
 }
 
-#bigt {
-  font-size: "48px"; 
-}
