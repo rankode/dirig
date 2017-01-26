@@ -1,5 +1,9 @@
 #a {
-  display: block;
   font-family: Arial, Helvetica;
   color: #2d78c9;
+}
+
+.div {
+  display: block;
+  background-color: #ebebeb;
 }
