@@ -1,12 +1,13 @@
 #a {
   font-family: Arial, Helvetica;
   color: #2d78c9;
-}
+  font-size: 48px; 
+};
 
 #b {
   font-size: "48px"; 
   font-size: 48px; 
-}
+};
 
 div {
   display: block;
